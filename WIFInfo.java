@@ -1,4 +1,4 @@
-package OOP;
+package Ex00_OOP;
 
 public class WIFInfo implements Comparable<WIFInfo>
 {
@@ -6,6 +6,13 @@ public class WIFInfo implements Comparable<WIFInfo>
 	private String mac;   // Blue
 	private int frequency;//gray
 	private int signal;   //
+	/**
+	 * @param o
+	 *            - WIFInfo 
+	 * @return 1 if the signal is bigger then the current WIFInfo signal. 
+	 * 			0 if the signal is equal the current WIFInfo signal.
+	 * 			-1 if the signal is less then the current WIFInfo signal.
+	 */
 	@Override
 	public int compareTo(WIFInfo o)
 	{

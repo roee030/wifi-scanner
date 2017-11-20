@@ -1,4 +1,4 @@
-package OOP;
+package Ex00_OOP;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -36,8 +36,8 @@ public class Total
 		String T = ",";
 		Date date = new Date();
 		int size = this.total.size();
-//		SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
-		SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy HH:mm");
+//		SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 		String[] lineS = line.split(T);
 		if (line != null && !line.isEmpty() && lineS[10].equals("GSM") == false)
 			{
@@ -111,22 +111,36 @@ public class Total
 		date += d.getDate() +"/" + mount + "/" + year + " " + d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds();
 		return date;
 	}
-	public double[] maxSignalLocation(String name)
+	 /**
+		 * Return the location where the signal of this network was the best.
+		 * @param myMac - the name of the network
+		 * @return the location of the best signal
+		 */
+	/**
+	 * Return the location where the signal of this network was the best.
+	 * @param myMac - the name of the network
+	 * @return the location of the best signal
+	 */
+	public double[] maxSignalLocation(String myMac)
 	{
 		double [] geo = new double[3];
-		int best = Integer.MIN_VALUE;
+		int bestSignal = Integer.MIN_VALUE;
 		for (int i = 0; i < this.total.size();i++)
 		{
-			for (int j = 0; j < this.total.get(i).getList().size(); j++)
+			ArrayList<WIFInfo> wifiList = this.total.get(i).getList();
+			for (int j = 0; j < wifiList.size(); j++)
 			{
-				int signal =this.total.get(i).getList().get(j).getSignal();
-				if(signal > best)
+				WIFInfo thisWifi = wifiList.get(j);
+				String mac = thisWifi.getMac();
+				int signal = thisWifi.getSignal();
+				if(mac.equals(myMac)&& bestSignal < signal)
 				{
-					best = signal;
+					bestSignal = signal;
 					geo = this.total.get(i).getGeoLocation();
 				}
 			}
 		}
 		return geo;
 	}
-}
+	}
+
