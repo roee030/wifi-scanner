@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style><Style id="yellow"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon></IconStyle></Style><Style id="green"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>1c:b9:c4:16:ec:58</b><br/>Chennel: <b>11</b><br/>Signal: <b>-76</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20672654,32.10388432,657.2693212</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>1c:b9:c4:16:ed:f8</b><br/>Chennel: <b>1</b><br/>Signal: <b>-78</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20672654,32.10388432,657.2693212</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>ec:8c:a2:26:ae:28</b><br/>Chennel: <b>6</b><br/>Signal: <b>-78</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20672654,32.10388432,657.2693212</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>ec:8c:a2:08:7a:18</b><br/>Chennel: <b>1</b><br/>Signal: <b>-84</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20672654,32.10388432,657.2693212</coordinates></Point></Placemark>
+<Placemark>
+<name></name>
+<description><![CDATA[Network name: <b></b><br/>MAC: <b>1c:b9:c4:94:2b:17</b><br/>Chennel: <b>36</b><br/>Signal: <b>-86</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20672654,32.10388432,657.2693212</coordinates></Point></Placemark>
+<Placemark>
+<name></name>
+<description><![CDATA[Network name: <b></b><br/>MAC: <b>1c:b9:c4:96:ed:f7</b><br/>Chennel: <b>36</b><br/>Signal: <b>-88</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20672654,32.10388432,657.2693212</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>ec:8c:a2:08:a3:bc</b><br/>Chennel: <b>48</b><br/>Signal: <b>-88</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20672654,32.10388432,657.2693212</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>24:c9:a1:33:3c:68</b><br/>Chennel: <b>1</b><br/>Signal: <b>-90</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20672654,32.10388432,657.2693212</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>ec:8c:a2:08:a3:28</b><br/>Chennel: <b>11</b><br/>Signal: <b>-10</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20676933,32.10384236,675.4053415</coordinates></Point></Placemark>
+<Placemark>
+<name>AUC_54_R</name>
+<description><![CDATA[Network name: <b>AUC_54_R</b><br/>MAC: <b>00:25:86:cc:00:f8</b><br/>Chennel: <b>5</b><br/>Signal: <b>-70</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20676933,32.10384236,675.4053415</coordinates></Point></Placemark>
+<Placemark>
+<name>island-154470</name>
+<description><![CDATA[Network name: <b>island-154470</b><br/>MAC: <b>1c:b9:c4:55:44:73</b><br/>Chennel: <b>9</b><br/>Signal: <b>-74</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20676933,32.10384236,675.4053415</coordinates></Point></Placemark>
+<Placemark>
+<name>KCG_54</name>
+<description><![CDATA[Network name: <b>KCG_54</b><br/>MAC: <b>00:25:86:cc:07:b2</b><br/>Chennel: <b>2</b><br/>Signal: <b>-75</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20676933,32.10384236,675.4053415</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>1c:b9:c4:16:cc:a8</b><br/>Chennel: <b>11</b><br/>Signal: <b>-78</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20676933,32.10384236,675.4053415</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>1c:b9:c4:16:ec:5c</b><br/>Chennel: <b>48</b><br/>Signal: <b>-83</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20676933,32.10384236,675.4053415</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>1c:b9:c4:16:06:38</b><br/>Chennel: <b>6</b><br/>Signal: <b>-83</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20676933,32.10384236,675.4053415</coordinates></Point></Placemark>
+<Placemark>
+<name>Ariel_University</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>1c:b9:c4:15:41:fc</b><br/>Chennel: <b>44</b><br/>Signal: <b>-84</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.20676933,32.10384236,675.4053415</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

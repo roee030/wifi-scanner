@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:ns2="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <ns2:Document>
+        <ns2:name>newkml</ns2:name>
+        <ns2:Placemark>
+            <ns2:name>model=SM-G920F</ns2:name>
+            <ns2:description>8 wifi networks found:
+1c:b9:c4:16:ec:58&#xD;
+1c:b9:c4:16:ed:f8&#xD;
+ec:8c:a2:26:ae:28&#xD;
+ec:8c:a2:08:7a:18&#xD;
+1c:b9:c4:94:2b:17&#xD;
+1c:b9:c4:96:ed:f7&#xD;
+ec:8c:a2:08:a3:bc&#xD;
+24:c9:a1:33:3c:68&#xD;
+</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>11/9/2017T23:27:0</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#Magnifier</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>model=SM-G920F</ns2:name>
+            <ns2:description>42 wifi networks found:
+ec:8c:a2:08:a3:28&#xD;
+00:25:86:cc:00:f8&#xD;
+1c:b9:c4:55:44:73&#xD;
+00:25:86:cc:07:b2&#xD;
+1c:b9:c4:16:cc:a8&#xD;
+1c:b9:c4:16:ec:58&#xD;
+1c:b9:c4:16:ec:5c&#xD;
+1c:b9:c4:16:06:38&#xD;
+ec:8c:a2:26:ae:28&#xD;
+1c:b9:c4:15:41:fc&#xD;
+1c:b9:c4:96:cc:a7&#xD;
+1c:b9:c4:96:ec:57&#xD;
+1c:b9:c4:16:06:3c&#xD;
+1c:b9:c4:16:18:78&#xD;
+1c:b9:c4:95:36:87&#xD;
+1c:b9:c4:15:36:8c&#xD;
+1c:b9:c4:16:cc:ac&#xD;
+1c:b9:c4:15:36:88&#xD;
+1c:b9:c4:15:41:f8&#xD;
+1c:b9:c4:15:44:3c&#xD;
+1c:b9:c4:96:06:37&#xD;
+ec:8c:a2:08:a3:28&#xD;
+1c:b9:c4:16:ec:58&#xD;
+a0:8c:fd:0a:14:5b&#xD;
+ec:8c:a2:08:7a:1c&#xD;
+1c:b9:c4:95:41:f7&#xD;
+1c:b9:c4:14:2b:1c&#xD;
+1c:b9:c4:16:04:d8&#xD;
+1c:b9:c4:16:ed:f8&#xD;
+ec:8c:a2:08:a3:2c&#xD;
+70:5a:0f:5c:b0:0b&#xD;
+1c:b9:c4:16:ed:fc&#xD;
+1c:b9:c4:15:1f:58&#xD;
+1c:b9:c4:16:04:dc&#xD;
+1c:b9:c4:15:44:38&#xD;
+1c:b9:c4:14:2b:18&#xD;
+e0:10:7f:1e:31:58&#xD;
+e0:10:7f:1a:9d:88&#xD;
+ec:8c:a2:08:7a:18&#xD;
+ec:8c:a2:26:b0:58&#xD;
+ec:8c:a2:09:8c:78&#xD;
+3c:52:82:ef:d4:1e&#xD;
+</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>11/9/2017T23:26:0</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#Magnifier</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:ec:58&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:27:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-76&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:27:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:ed:f8&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:27:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-78&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:27:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:26:ae:28&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:27:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;6&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-78&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:27:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:08:7a:18&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:27:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-84&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:27:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name></ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:94:2b:17&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:27:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-86&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:27:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name></ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:96:ed:f7&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:27:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-88&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:27:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:08:a3:bc&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:27:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;48&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-88&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:27:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;24:c9:a1:33:3c:68&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:27:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-90&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:27:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:08:a3:28&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-10&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>AUC_54_R</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;AUC_54_R&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;00:25:86:cc:00:f8&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;5&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-70&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>island-154470</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;island-154470&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:55:44:73&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;9&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-74&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>KCG_54</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;KCG_54&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;00:25:86:cc:07:b2&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;2&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-75&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:cc:a8&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-78&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:ec:58&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-81&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:ec:5c&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;48&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-83&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:06:38&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;6&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-83&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:26:ae:28&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;6&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-84&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:15:41:fc&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;44&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-84&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name></ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:96:cc:a7&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;44&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-84&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name></ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:96:ec:57&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;48&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-84&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:06:3c&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-85&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:18:78&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-85&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name></ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:95:36:87&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;44&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-85&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:15:36:8c&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;44&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-85&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:cc:ac&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;44&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-86&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:15:36:88&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;6&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-86&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:15:41:f8&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-86&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:15:44:3c&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-86&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name></ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:96:06:37&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-86&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:08:a3:28&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-87&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:ec:58&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-87&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>DIRECT-F1-HP DeskJet 3630 series</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;DIRECT-F1-HP DeskJet 3630 series&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;a0:8c:fd:0a:14:5b&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;6&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-87&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:08:7a:1c&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-87&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name></ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:95:41:f7&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;44&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-87&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:14:2b:1c&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-87&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:04:d8&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-88&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:ed:f8&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-88&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:08:a3:2c&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-88&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>DIRECT-80-HP DeskJet 3630 series</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;DIRECT-80-HP DeskJet 3630 series&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;70:5a:0f:5c:b0:0b&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;6&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-88&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:ed:fc&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-88&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:15:1f:58&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-88&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:16:04:dc&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;36&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-88&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:15:44:38&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-89&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;1c:b9:c4:14:2b:18&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-89&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;e0:10:7f:1e:31:58&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-89&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;e0:10:7f:1a:9d:88&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-90&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:08:7a:18&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20672654&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10388432&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;657.2693212&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-90&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20672654,32.10388432,657.2693212</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:26:b0:58&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;11&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-90&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>Ariel_University</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;Ariel_University&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;ec:8c:a2:09:8c:78&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;1&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-90&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+        <ns2:Placemark>
+            <ns2:name>DIRECT-1D-HP DeskJet 3630 series</ns2:name>
+            <ns2:open>1</ns2:open>
+            <ns2:description>SSID:&lt;b&gt;DIRECT-1D-HP DeskJet 3630 series&lt;/b&gt;&lt;br/&gt;MAC:&lt;b&gt;3c:52:82:ef:d4:1e&lt;/b&gt;&lt;br/&gt;Time:&lt;b&gt;11/9/2017 23:26:0&lt;/b&gt;&lt;br/&gt;Model:&lt;b&gt;model=SM-G920F&lt;/b&gt;&lt;br/&gt;Longitude:&lt;b&gt;35.20676933&lt;/b&gt;&lt;br/&gt;Latitude:&lt;b&gt;32.10384236&lt;/b&gt;&lt;br/&gt;Altitude:&lt;b&gt;675.4053415&lt;/b&gt;&lt;br/&gt;Frequency:&lt;b&gt;6&lt;/b&gt;&lt;br/&gt;Signal:&lt;b&gt;-90&lt;/b&gt;</ns2:description>
+            <ns2:TimeStamp>
+                <ns2:when>2017-09-11T11:26:00Z</ns2:when>
+            </ns2:TimeStamp>
+            <ns2:styleUrl>#wifiIcon</ns2:styleUrl>
+            <ns2:Point>
+                <ns2:coordinates>35.20676933,32.10384236,675.4053415</ns2:coordinates>
+            </ns2:Point>
+        </ns2:Placemark>
+    </ns2:Document>
+</ns2:kml>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style><Style id="yellow"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon></IconStyle></Style><Style id="green"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name>
+<Placemark>
+<name>model=SM-G920F</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>24:c9:a1:33:3c:68</b><br/>Chennel: <b>1</b><br/>Signal: <b>-90</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.206769332326786,32.10384235509887,675.4053414747375</coordinates></Point></Placemark>
+<Placemark>
+<name>model=SM-G920F</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>ec:8c:a2:08:7a:18</b><br/>Chennel: <b>1</b><br/>Signal: <b>-84</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.206769332326786,32.10384235509887,675.4053414747375</coordinates></Point></Placemark>
+<Placemark>
+<name>model=SM-G920F</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>1c:b9:c4:16:ed:f8</b><br/>Chennel: <b>1</b><br/>Signal: <b>-78</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.206769332326786,32.10384235509887,675.4053414747375</coordinates></Point></Placemark>
+<Placemark>
+<name>model=SM-G920F</name>
+<description><![CDATA[Network name: <b>Ariel_University</b><br/>MAC: <b>ec:8c:a2:26:ae:28</b><br/>Chennel: <b>6</b><br/>Signal: <b>-78</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>35.206769332326786,32.10384235509887,675.4053414747375</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>
